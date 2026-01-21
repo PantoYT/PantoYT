@@ -11,53 +11,31 @@ I enjoy building practical projects and learning how things really work.
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-<a href="https://www.aseprite.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aseprite/aseprite-original.svg" alt="aseprite" width="40" height="40"/>
-</a>
 
-<a href="https://www.autodesk.com/products/fusion-360/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/autodesk_fusion360/autodesk_fusion360-icon.svg" alt="fusion360" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/aseprite.svg" width="40" height="40"/>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/autodesk.svg" width="40" height="40"/>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cplusplus.svg" width="40" height="40"/>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" width="40" height="40"/>
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" width="40" height="40"/>
 
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" width="40" height="40"/>
 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mariadb.svg" width="40" height="40"/>
 
-<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg" width="40" height="40"/>
 
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobepremierepro.svg" width="40" height="40"/>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/php.svg" width="40" height="40"/>
 
-<a href="https://unity.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/unity.svg" width="40" height="40"/>
+
 </p>
 
 ---
