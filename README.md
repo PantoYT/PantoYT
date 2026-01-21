@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wojciech Hałasa aka PantoYT</h1>
+<h1 align="center">Hi 👋, I'm Wojciech Hałasa</h1>
 <h3 align="center">A programmer based in Poland</h3>
 
 <h3 align="left">Languages and Tools:</h3>
