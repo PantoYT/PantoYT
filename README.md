@@ -3,7 +3,7 @@
 Programming student from Poland passionate about building practical solutions and exploring new technologies.
 
 ## Currently learning:
-**Java**
+**Java** - **[Check out my progress](https://github.com/PantoYT/java)**
 
 ## Featured Projects
 
