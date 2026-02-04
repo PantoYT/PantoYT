@@ -2,6 +2,9 @@
 
 Programming student from Poland passionate about building practical solutions and exploring new technologies.
 
+## Currently learning:
+**Java**
+
 ## Featured Projects
 
 - **[Portfolio](https://pantoyt.github.io/)** - Personal portfolio showcasing projects and skills
