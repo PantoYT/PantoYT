@@ -7,7 +7,7 @@ Programming student from Poland passionate about building practical solutions an
 
 ## Featured Projects
 
-- **[Portfolio](pantoyt.github.io/Portfolio/)** - Personal portfolio showcasing projects and skills
+- **[Portfolio]([pantoyt.github.io/Portfolio/](https://pantoyt.github.io/Portfolio/))** - Personal portfolio showcasing projects and skills
 - **[Fiszki](https://github.com/PantoYT/Fiszki)** - Offline flashcard app with smart weighted randomization
 - **[AutoSync](https://github.com/PantoYT/AutoSync)** - Automated file synchronization with real-time monitoring
 - **[Fred](https://github.com/PantoYT/Fred)** - Discord bot for Epic Games free game notifications
