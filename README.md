@@ -2,16 +2,16 @@
 
 Programming student from Poland passionate about building practical solutions and exploring new technologies.
 
-## Currently learning:
+## Currently:
 **Recreating YouTube** - **[Check out my progress](https://github.com/PantoYT/TubeYou)**
 
 ## Featured Projects
 
 - **[Portfolio](https://pantoyt.github.io/Portfolio/)** - Personal portfolio showcasing projects and skills
-- **[Fiszki](https://github.com/PantoYT/Fiszki)** - Offline flashcard app with smart weighted randomization
-- **[Fred](https://github.com/PantoYT/Fred)** - Discord bot for Epic Games free game notifications
 - **[TubeYou](https://github.com/PantoYT/TubeYou)** - My attempt at making youtube
-- **[Relax Skarpety](https://pantoyt.github.io/Relax-Skarpety/)** - Modern landing page for a sock company
+- **[Discord Bots](https://github.com/PantoYT/DiscordBots)** - A collection of my discord bots that I made to make my life easier
+- **[Sorting](https://github.com/PantoYT/Sorting)** - A collection of 100+ sorting algorithms
+- **[FlashCards](https://github.com/PantoYT/FlashCards)** - Offline flashcard app with smart weighted randomization
 
 ## Tech Stack
 
