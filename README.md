@@ -7,7 +7,7 @@ Programming student from Poland passionate about building practical solutions an
 
 ## Featured Projects
 
-- **[Portfolio](https://pantoyt.github.io/Portfolio/)** - Personal portfolio showcasing projects and skills
+- **[Portfolio](https://github.com/PantoYT/Portfolio)** - Personal portfolio showcasing projects and skills
 - **[TubeYou](https://github.com/PantoYT/TubeYou)** - My attempt at making youtube
 - **[Discord Bots](https://github.com/PantoYT/DiscordBots)** - A collection of my discord bots that I made to make my life easier
 - **[Sorting](https://github.com/PantoYT/Sorting)** - A collection of 100+ sorting algorithms
