@@ -1,8 +1,9 @@
-# Hi, I'm Wojciech 👋
+<h1 align="center">Hi, I'm Wojciech 👋</h1>
 
-I'm a programming student from Poland. I like building practical tools from
-scratch, understanding how things work under the hood, and shipping projects
-that can run without a heavy stack.
+<p align="center">
+  Programming student from Poland building practical software, offline tools,<br>
+  automation systems, and robotics projects from the ground up.
+</p>
 
 ## What I'm building now
 
@@ -28,14 +29,28 @@ verification, and an algorithmic feed.
 | [particle-life](https://github.com/PantoYT/particle-life) | An emergent particle simulation with CPU and GPU versions that run directly from `file://` | Canvas 2D, WebGL2 |
 | [gitdesk](https://github.com/PantoYT/gitdesk) | A local dashboard for tracking commits, remotes, secrets, and multiple working copies across every repository on a machine | Python |
 
-## Tools I work with
+## Tech & tools
 
-- **Languages:** Python · PHP · C# · C++ · JavaScript · Java · SQL
-- **Web:** HTML · CSS · WebGL2 · MariaDB
-- **Tools:** Git · Docker · .NET · Tkinter · Discord.py · Cloudflare
-- **Creative:** Photoshop · Premiere Pro · Aseprite · Fusion 360
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,php,js,html,css,cs,dotnet,mysql,docker,git,github,arduino,ps,pr&perline=15" alt="Python, C++, PHP, JavaScript, HTML, CSS, C#, .NET, MySQL, Docker, Git, GitHub, Arduino, Photoshop, and Premiere Pro" />
+  </a>
+</p>
 
-## GitHub snapshot
+Beyond the icons: **Java**, **SQL**, **WebGL2**, **Tkinter**, **Discord.py**,
+**Cloudflare**, **Aseprite**, **Fusion 360**, robotics, electronics, and workflow
+automation.
+
+## GitHub activity
+
+<p align="center">
+  <a href="https://github.com/PantoYT">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PantoYT&theme=transparent" alt="Wojciech's GitHub activity" />
+  </a>
+  <a href="https://github.com/PantoYT?tab=repositories">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PantoYT&theme=transparent&exclude_repos=achievements,PantoYT" alt="Most used languages in public repositories" />
+  </a>
+</p>
 
 - **775 contributions** in the last year *(September 2026)*
 - **Pull Shark ×2** · **Pair Extraordinaire ×2** · **YOLO** · **Quickdraw**
